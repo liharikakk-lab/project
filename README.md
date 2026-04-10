@@ -68,21 +68,10 @@ pip install -r requirements.txt
 
 ---
 
-##  Future Improvements
-
-* Deploy as a web application
-* Use advanced ML models
-* Add real-time user input system
-
----
-
 ##  Author
 
 * Lihirika
 
 ---
 
-## ⭐ Acknowledgements
 
-* Dataset source
-* Open-source libraries
