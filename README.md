@@ -1,12 +1,12 @@
-# 💰 Loan Approval Prediction System
+#  Loan Approval Prediction System
 
-## 📌 Overview
+##  Overview
 
 This project predicts whether a loan application will be approved or not using machine learning techniques. It analyzes applicant data such as income, credit history, and other factors to make accurate predictions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze loan applicant dataset
 * Perform data preprocessing and cleaning
@@ -15,9 +15,9 @@ This project predicts whether a loan application will be approved or not using m
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* Python 🐍
+* Python 
 * Google Colab
 * Pandas
 * NumPy
@@ -26,7 +26,7 @@ This project predicts whether a loan application will be approved or not using m
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 project/
@@ -39,7 +39,7 @@ project/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Features
+##  Features
 
 * Data preprocessing & cleaning
 * Exploratory Data Analysis (EDA)
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Deploy as a web application
 * Use advanced ML models
@@ -76,9 +76,9 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-* Your Name
+* Lihirika
 
 ---
 
